@@ -6,4 +6,4 @@ def my_function():
 
     print(emoji.emojize(selected_emoji, language='alias'))
 
-myfunction()
+my_function()
